@@ -3,7 +3,7 @@ An advanced Oracle SQL and PL/SQL-based payroll management system for handling e
 
 # Employee Payroll System (Oracle DBA Project)
 
-![ER Diagram](./ERD/employee_payroll_erd.png)
+![ER Diagram](./erd/employee_payroll_erd.png)
 
 ## 📌 Project Overview
 
@@ -12,9 +12,7 @@ An advanced Oracle SQL and PL/SQL-based payroll management system for handling e
 ---
 
 ## 🏗️ Project Structure
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8b2c68ed-b648-45c3-ab51-00a60563ae67" />
-
-
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/53ac9460-b750-4d17-8370-ebb1e328f98f" />
 
 
 ---
